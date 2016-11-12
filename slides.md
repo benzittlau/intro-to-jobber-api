@@ -56,7 +56,7 @@ Go to [https://www.getpostman.com/](https://www.getpostman.com/)
 Install the Chrome App or Mac App
 
 
-# Download and import the Jobber sample collection
+# Import Jobber sample collection
 Download our sample API requests from [here](/assets/JobberAPISampleRequests.postman_collection)
 
 Click on "Import" in postman and drop in the collection file
@@ -69,6 +69,8 @@ Click on the "eye" icon in the top right, and then "edit" next to globals
 
 ![Import in postman](/img/edit_globals.png)
 
+
+# Setup Postman (Cont)
 Add DOMAIN (with https://api.getjobber.com) and ACCESS_TOKEN (with your access token) variables
 
 ![Postman vars](/img/postman_variables.png)
