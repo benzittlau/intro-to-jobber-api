@@ -19,7 +19,9 @@ Access will be removed 3 days from when it was granted.
 
 # What you'll need
 A Jobber Test Account and Access Token
+
 Postman REST Client
+
 The Jobber API Docs
 
 
@@ -28,9 +30,11 @@ The Jobber API Docs
 
 
 # Creating an account
-* Go to [https://getjobber.com](https://getjobber.com)
-* Click "Free Trial" in the top right
-* Fill in your details
+Go to [https://getjobber.com](https://getjobber.com)
+
+Click "Free Trial" in the top right
+
+Fill in your details
 
 
 # Getting account setup as a tester
@@ -100,11 +104,11 @@ We attempt to keep our API documentation up to date for our partners, but we do 
 
 
 
-## GETTING STARTED
+# GETTING STARTED
 Once you have the above all setup, here's some tips to getting started.
 
 
-## Do a basic flow using postman:
+# Do a basic flow using postman:
 Create a client
 
 Read back that client
@@ -118,14 +122,17 @@ Create a visit on that job
 Read back the visits on that job
 
 
-## Now do the same flow using code
+# Now do the same flow using code
 Implement the API in your programming language of choice
 
-Ruby [httparty](https://github.com/jnunemaker/httparty)
-Python [requests](http://docs.python-requests.org/en/latest/)
-Javascript [request](https://github.com/request/request)
+Ruby ([httparty](https://github.com/jnunemaker/httparty))
+
+Python ([requests](http://docs.python-requests.org/en/latest/))
+
+Javascript ([request](https://github.com/request/request))
 
 
-## Getting help
+# Getting help
 Look for Jobber shirts
+
 We'll try and find ourselves a table or space where we'll have someone available
